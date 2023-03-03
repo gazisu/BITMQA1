@@ -1,0 +1,120 @@
+C:\>f:
+
+F:\>f:dir
+'f:dir' is not recognized as an internal or external command,
+operable program or batch file.
+
+F:\>Dir
+ Volume in drive F is New Volume
+ Volume Serial Number is A2EB-7790
+
+ Directory of F:\
+
+03/03/2023  11:34 AM    <DIR>          BITMQABatch1GreatG009
+12/23/2022  11:11 AM    <DIR>          CCNA FILE
+02/28/2023  06:36 PM    <DIR>          h
+12/13/2022  12:25 PM    <DIR>          Md.Titu
+12/13/2022  12:47 PM        19,320,872 Md.Titu.zip
+02/19/2023  09:09 PM    <DIR>          Murto
+12/15/2022  05:46 PM    <DIR>          Shaiham Islam Munna- Reg-0400036136
+12/15/2022  05:58 PM    <DIR>          Tonmoy Sarker SEID- 311077
+01/23/2023  09:11 PM    <DIR>          Zehad
+               1 File(s)     19,320,872 bytes
+               8 Dir(s)  312,576,090,112 bytes free
+
+F:\>cd bitmqabatch1greatG009\
+
+F:\BITMQABatch1GreatG009>qaautomation project 1
+'qaautomation' is not recognized as an internal or external command,
+operable program or batch file.
+
+F:\BITMQABatch1GreatG009>cd qaautomation project 1
+
+F:\BITMQABatch1GreatG009\QAAutomation Project 1> notpadfiletst.txt
+'notpadfiletst.txt' is not recognized as an internal or external command,
+operable program or batch file.
+
+F:\BITMQABatch1GreatG009\QAAutomation Project 1>mkdir
+The syntax of the command is incorrect.
+
+F:\BITMQABatch1GreatG009\QAAutomation Project 1>mkdir photo
+
+F:\BITMQABatch1GreatG009\QAAutomation Project 1>dir
+ Volume in drive F is New Volume
+ Volume Serial Number is A2EB-7790
+
+ Directory of F:\BITMQABatch1GreatG009\QAAutomation Project 1
+
+03/03/2023  11:50 AM    <DIR>          .
+03/03/2023  11:50 AM    <DIR>          ..
+03/03/2023  11:50 AM    <DIR>          photo
+               0 File(s)              0 bytes
+               3 Dir(s)  312,576,090,112 bytes free
+
+F:\BITMQABatch1GreatG009\QAAutomation Project 1>notepad file3.txt
+
+F:\BITMQABatch1GreatG009\QAAutomation Project 1>dir
+ Volume in drive F is New Volume
+ Volume Serial Number is A2EB-7790
+
+ Directory of F:\BITMQABatch1GreatG009\QAAutomation Project 1
+
+03/03/2023  11:52 AM    <DIR>          .
+03/03/2023  11:52 AM    <DIR>          ..
+03/03/2023  11:52 AM                 4 file3.txt
+03/03/2023  11:50 AM    <DIR>          photo
+               1 File(s)              4 bytes
+               3 Dir(s)  312,576,090,112 bytes free
+
+F:\BITMQABatch1GreatG009\QAAutomation Project 1>file3.txt
+
+F:\BITMQABatch1GreatG009\QAAutomation Project 1>
+F:\BITMQABatch1GreatG009\QAAutomation Project 1>F:
+
+F:\BITMQABatch1GreatG009\QAAutomation Project 1>cd..
+
+F:\BITMQABatch1GreatG009>.
+'.' is not recognized as an internal or external command,
+operable program or batch file.
+
+F:\BITMQABatch1GreatG009>cd.
+
+F:\BITMQABatch1GreatG009>cd\
+
+F:\>$RECYCLE.BIN
+'$RECYCLE.BIN' is not recognized as an internal or external command,
+operable program or batch file.
+
+F:\>BITMQABatch1GreatG009>cd.
+'BITMQABatch1GreatG009' is not recognized as an internal or external command,
+operable program or batch file.
+
+F:\>BITMQABatch1GreatG009\QAAutomation Project 1>cd\
+The filename, directory name, or volume label syntax is incorrect.
+
+F:\>BITMQABatch1GreatG009\QAAutomation Project 1
+'BITMQABatch1GreatG009\QAAutomation' is not recognized as an internal or external command,
+operable program or batch file.
+
+F:\>BITMQABatch1GreatG009\QAAutomation Project 1\New2.txt
+'BITMQABatch1GreatG009\QAAutomation' is not recognized as an internal or external command,
+operable program or batch file.
+
+F:\>BITMQABatch1GreatG009\QAAutomation Project 1\notepad new2.txt
+'BITMQABatch1GreatG009\QAAutomation' is not recognized as an internal or external command,
+operable program or batch file.
+
+F:\>dir
+ Volume in drive F is New Volume
+ Volume Serial Number is A2EB-7790
+
+ Directory of F:\
+
+03/03/2023  11:34 AM    <DIR>          BITMQABatch1GreatG009
+12/23/2022  11:11 AM    <DIR>          CCNA FILE
+03/03/2023  11:59 AM                 0 cd
+02/28/2023  06:36 PM    <DIR>          h
+12/13/2022  12:25 PM    <DIR>          Md.Titu
+12/13/2022  12:47 PM        19,320,872 Md.Titu.zip
+02/19/2023  09:09 PM    <DIR>          Murto
+12/15/2022  05:46 PM    <DIR>          Shaiham Islam Mu

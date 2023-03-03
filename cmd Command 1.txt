@@ -1,0 +1,29 @@
+CMD command
+Clear form
+F:\BITMQABatch1GreatG009>cls
+View directory
+F:\Dir
+Go to folder
+F:\F:\BITMQABatch1GreatG009\QAAutomation Project 1
+
+back to root
+previous folder
+F:\BITMQABatch1GreatG009\QAAutomation Project 1>cd..
+
+Main drive
+F:\>BITMQABatch1GreatG009>cd.
+
+Create new file
+BITMQABatch1GreatG009\QAAutomation Project 1\New2.txt
+this command show not found this file and will suggest for create new filw
+
+
+Git
+F:\BITMQABatch1GreatG009\QAAutomation Project 1>git init
+Create git in project
+
+F:\BITMQABatch1GreatG009\QAAutomation Project 1>git add
+Add in Git
+
+F:\BITMQABatch1GreatG009\QAAutomation Project 1>git add file3.txt
+specific file add in git
